@@ -1,0 +1,9 @@
+{
+    "name": "fikdev/sisteminformasiair",
+    "description": "Sistem Informasi Pendataan Pipa Aliran Air",
+    "type": "project",
+    "require": {
+        "php": "^7.2",
+        "dompdf/dompdf": "2.*"
+    }
+}
